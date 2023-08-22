@@ -1,2 +1,18 @@
-# React_Todo_List_App
- A Todo List Appliaction made using Reactjs
+# React-Todo-list
+
+This is a React To do list app developed by me to learn and enhance my react skills.
+
+ 
+ ## Tech Stack
+
+  `React` `HTML` `CSS` `Javascript`
+
+ ## Learnings
+
+  - React
+  - React hooks
+  - React props
+  - functions
+  - State management
+  - data processing
+  - Error resolving
